@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml version="1.0" ?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>iMast (β)</title>
+        <item>
+            <title>5.6b238</title>
+            <pubDate>Sun, 21 Feb 2021 04:32:43 +0000</pubDate>
+            <sparkle:minimumSystemVersion>11.1</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink xml:lang="ja">https://cinderella-project.github.io/iMast-AppCast/patchnotes/5.6/238.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/cinderella-project/iMast/releases/download/5.6b238/iMast_beta_5.6_238.tgz" sparkle:version="238" sparkle:shortVersionString="5.6" length="7637935" type="application/octet-stream" sparkle:edSignature="0WNmO7CPNBWA20GmW6vedhDdS9RafY4yy43k1uZvf/fHzAvmaDAG4HeEaQx3AVb6NUkFzqdAGNnLavlxkScvAw=="/>
+        </item>
+        <item>
+            <title>5.6b237</title>
+            <pubDate>Fri, 19 Feb 2021 11:12:28 +0000</pubDate>
+            <sparkle:minimumSystemVersion>11.1</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink xml:lang="ja">https://cinderella-project.github.io/iMast-AppCast/patchnotes/5.6/237.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/cinderella-project/iMast/releases/download/5.6b237/iMast_beta_5.6_237.tgz" sparkle:version="237" sparkle:shortVersionString="5.6" length="7643072" type="application/octet-stream" sparkle:edSignature="fF7BE7Vg3beDf0bODP2MpmOzJQev2wLo8SxbSUCj9hY3mXMwxKNvuDV6ips4YMu6pYRVkcf7cZXH0iRQPkCvDw=="/>
+        </item>
+        <item>
+            <title>5.6b236</title>
+            <pubDate>Wed, 17 Feb 2021 09:47:07 +0000</pubDate>
+            <sparkle:minimumSystemVersion>11.1</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink xml:lang="ja">https://cinderella-project.github.io/iMast-AppCast/patchnotes/5.6/236.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/cinderella-project/iMast/releases/download/5.6b236/iMast_beta_5.6_236.tgz" sparkle:version="236" sparkle:shortVersionString="5.6" length="7644681" type="application/octet-stream" sparkle:edSignature="PgFQug2vH698M0WVPhqsurxyIdVtQ1nw/JwrJcd+Yt/czotCBo16bQXA1i4DTr4cN9J1Qa2Zb79e388OVfaBCQ=="/>
+        </item>
+        <item>
+            <title>5.6b235</title>
+            <pubDate>Wed, 17 Feb 2021 09:35:36 +0000</pubDate>
+            <sparkle:minimumSystemVersion>11.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/cinderella-project/iMast/releases/download/5.6b235/iMast_beta_5.6_235.tgz" sparkle:version="235" sparkle:shortVersionString="5.6" length="7644351" type="application/octet-stream" sparkle:edSignature="Mfr1ZAPzoFUK/cPIuC5e6diSLl5xRfrUuhTTWSathEF9IV7J6K15pzgTZgADBfJlqunJiEc8HVCvUjEnYHJXAQ=="/>
+        </item>
+    </channel>
+</rss>
