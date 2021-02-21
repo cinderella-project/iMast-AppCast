@@ -32,5 +32,5 @@ for build in current_builds:
     })
 
 with open("./dist/appcast-beta.xml", "w") as f:
-    f.write('<?xml version="1.0" encoding="UTF-8" standalone="yes"?>')
-    f.write(minidom.parseString(ET.tostring(root, encoding="UTF-8")).toprettyxml(indent="    "))
+    xml = ET.tostring(root, encoding="UTF-8")
+    f.write(minidom.parseString(xml).toprettyxml(indent="    ").replace('<?xml version="1.0" ?>', '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>'))
