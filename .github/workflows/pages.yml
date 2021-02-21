@@ -1,0 +1,17 @@
+on:
+- push
+
+jobs:
+  pages:
+    name: Publish to GitHub Pages
+    runs-on: macOS-latest
+    steps:
+    - uses: actions/checkout@master
+    - run: |
+        cp -r src dist
+    - run: ./scripts/generate-appcast.py
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./dist

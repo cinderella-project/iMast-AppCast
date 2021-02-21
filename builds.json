@@ -1,0 +1,49 @@
+[
+	{
+		"version": "5.6",
+		"build_number": 238,
+		"created_at": "2021-02-21T04:32:43Z",
+		"os_required": "11.1",
+		"patchnote": "https://cinderella-project.github.io/iMast-AppCast/patchnotes/5.6/238.html",
+		"binary": {
+			"url": "https://github.com/cinderella-project/iMast/releases/download/5.6b238/iMast_beta_5.6_238.tgz",
+			"length": 7637935,
+			"ed_sig": "0WNmO7CPNBWA20GmW6vedhDdS9RafY4yy43k1uZvf/fHzAvmaDAG4HeEaQx3AVb6NUkFzqdAGNnLavlxkScvAw=="
+		}
+	},
+	{
+		"version": "5.6",
+		"build_number": 237,
+		"created_at": "2021-02-19T11:12:28Z",
+		"os_required": "11.1",
+		"patchnote": "https://cinderella-project.github.io/iMast-AppCast/patchnotes/5.6/237.html",
+		"binary": {
+			"url": "https://github.com/cinderella-project/iMast/releases/download/5.6b237/iMast_beta_5.6_237.tgz",
+			"length": 7643072,
+			"ed_sig": "fF7BE7Vg3beDf0bODP2MpmOzJQev2wLo8SxbSUCj9hY3mXMwxKNvuDV6ips4YMu6pYRVkcf7cZXH0iRQPkCvDw=="
+		}
+	},
+	{
+		"version": "5.6",
+		"build_number": 236,
+		"created_at": "2021-02-17T09:47:07Z",
+		"os_required": "11.1",
+		"patchnote": "https://cinderella-project.github.io/iMast-AppCast/patchnotes/5.6/236.html",
+		"binary": {
+			"url": "https://github.com/cinderella-project/iMast/releases/download/5.6b236/iMast_beta_5.6_236.tgz",
+			"length": 7644681,
+			"ed_sig": "PgFQug2vH698M0WVPhqsurxyIdVtQ1nw/JwrJcd+Yt/czotCBo16bQXA1i4DTr4cN9J1Qa2Zb79e388OVfaBCQ=="
+		}
+	},
+	{
+		"version": "5.6",
+		"build_number": 235,
+		"created_at": "2021-02-17T09:35:36Z",
+		"os_required": "11.1",
+		"binary": {
+			"url": "https://github.com/cinderella-project/iMast/releases/download/5.6b235/iMast_beta_5.6_235.tgz",
+			"length": 7644351,
+			"ed_sig": "Mfr1ZAPzoFUK/cPIuC5e6diSLl5xRfrUuhTTWSathEF9IV7J6K15pzgTZgADBfJlqunJiEc8HVCvUjEnYHJXAQ=="
+		}
+	}
+]
