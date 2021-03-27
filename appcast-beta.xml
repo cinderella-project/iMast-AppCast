@@ -3,6 +3,13 @@
     <channel>
         <title>iMast (β)</title>
         <item>
+            <title>5.6b239</title>
+            <pubDate>Sat, 27 Mar 2021 21:37:13 +0000</pubDate>
+            <sparkle:minimumSystemVersion>11.1</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink xml:lang="ja">https://cinderella-project.github.io/iMast-AppCast/patchnotes/5.6/239.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/cinderella-project/iMast/releases/download/5.6b239/iMast_beta_5.6_239.tgz" sparkle:version="239" sparkle:shortVersionString="5.6" length="7638290" type="application/octet-stream" sparkle:edSignature="MDtl+8k0MWWRlTPQMVeOvclVwEAK6FV6hMLie3DsBPw4Fyf8bhQ2IMZJ91T/IXrcRsfE9K3o4q4nJ8egB6QGDg=="/>
+        </item>
+        <item>
             <title>5.6b238</title>
             <pubDate>Sun, 21 Feb 2021 04:32:43 +0000</pubDate>
             <sparkle:minimumSystemVersion>11.1</sparkle:minimumSystemVersion>
