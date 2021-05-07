@@ -1,6 +1,18 @@
 [
 	{
 		"version": "5.6",
+		"build_number": 240,
+		"created_at": "2021-05-07T01:20:38Z",
+		"os_required": "11.1",
+		"patchnote": "https://cinderella-project.github.io/iMast-AppCast/patchnotes/5.6/240.html",
+		"binary": {
+			"url": "https://github.com/cinderella-project/iMast/releases/download/5.6b240/iMast_beta_5.6_240.tgz",
+			"length": 7584396,
+			"ed_sig": "/uIqxhR16+fxfVVN6dmF2kvNB3IrIYranboLT2cidaYLRA2ZG4RbxvR+Z4CnKJarTTkmoIS0nOmY+EgKIT8TAQ=="
+		}
+	},
+	{
+		"version": "5.6",
 		"build_number": 239,
 		"created_at": "2021-03-27T21:37:13Z",
 		"os_required": "11.1",
